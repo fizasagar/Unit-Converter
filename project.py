@@ -60,7 +60,7 @@ st.markdown(
 )
 
 # Title & Description
-st.markdown("<h1>🔢 Unit Converter Using Python 🔄</h1>", unsafe_allow_html=True)
+st.markdown("<h1>Unit Converter Using Python 🔢</h1>", unsafe_allow_html=True)
 st.subheader("Convert length, weight, and temperature instantly! 🚀")
 
 # Sidebar Menu
